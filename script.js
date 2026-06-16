@@ -12,7 +12,7 @@ const fotos = [
     "foto2.jpg",
     "gato1.jpg",
     "gorda.jpg",
-    "djavan.jpg",
+    "djvan.jpg",
     "emoji.jpg"
 ];
 
