@@ -7,13 +7,13 @@ const introScreen = document.getElementById("introScreen");
 const mainContent = document.getElementById("mainContent");
 
 const fotos = [
-    "imagens/fotoflor.jpg",
-    "imagens/foto1.jpg",
-    "imagens/foto2.jpg",
-    "imagens/gato1.jpg",
-    "imagens/gorda.jpg",
-    "imagens/djvan.jpg",
-    "imagens/emoji.jpg",
+    "fotoflor.jpg",
+    "foto1.jpg",
+    "foto2.jpg",
+    "gato1.jpg",
+    "gorda.jpg",
+    "djavan.jpg",
+    "emoji.jpg"
 ];
 
 let fotoAtual = 0;
