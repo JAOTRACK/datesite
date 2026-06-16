@@ -13,7 +13,7 @@ const fotos = [
     "imagens/gato1.jpg",
     "imagens/gorda.jpg",
     "imagens/djvan.jpg",
-    "imagens/emoji.jpg"
+    "imagens/emoji.jpg",
 ];
 
 let fotoAtual = 0;
